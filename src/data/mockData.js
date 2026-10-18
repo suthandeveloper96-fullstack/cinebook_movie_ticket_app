@@ -28,7 +28,7 @@ export const MUST_WATCH_IDS = ["shawshank-redemption", "billa", "the-dark-knight
 export const LANGUAGES = ["All", "Tamil", "English", "Malayalam", "Telugu", "Hindi"];
 
 // Customer support number shown from the ticket page.
-export const SUPPORT_PHONE = "+91 88258981768";
+export const SUPPORT_PHONE = "+91 8825981768";
 
 // Real Chennai mall cinemas; showtimes and screens are mock data.
 export const theatres = [
